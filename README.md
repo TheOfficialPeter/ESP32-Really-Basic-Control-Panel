@@ -6,6 +6,10 @@ Final images will be added once the project is finished. I will be adding more f
 
 Here's the initial design images
 
+### Quick notice
+
+I tend to update my README's more than anything else on github so you'll know when something's wrong/broken or when I stopped working on projects. This project's current status has changed to: Slowed down development and I will continue when I make progress on the other projects. Probably wasn't a good idea to work on multiple projects at the same time, although I might work on it tonight ~10pm (gmt+2) 
+
 ## PC UI
 ![Android Large - 3](https://user-images.githubusercontent.com/57006688/210266832-9d3dc488-dedd-4212-ba28-b145e3a4e6ea.png)
 
