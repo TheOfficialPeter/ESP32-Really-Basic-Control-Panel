@@ -2,7 +2,7 @@
 #include <ESPAsync.h>
 #include <SPIFFS.h>
 
-const char* ssid = "SSDI";
+const char* ssid = "SSID";
 const char* password = "PASSWORD";
 
 int pin = 0;
