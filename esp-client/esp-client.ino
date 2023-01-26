@@ -2,8 +2,8 @@
 #include <ESPAsync.h>
 #include <SPIFFS.h>
 
-const char* ssid = "VRMalan";
-const char* password = "wifiathome";
+const char* ssid = "SSDI";
+const char* password = "PASSWORD";
 
 int pin = 0;
 String ledState;
