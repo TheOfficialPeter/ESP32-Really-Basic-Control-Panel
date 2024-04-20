@@ -8,7 +8,7 @@ Here's the initial design images
 
 ### Quick notice
 
-I tend to update my README's more than anything else on github so you'll know when something's wrong/broken or when I stopped working on projects. This project's current status has changed to: Working on this again real soon ;) 
+I tend to update my README's more than anything else on github so you'll know when something's wrong/broken or when I stopped working on projects. This project's current status has changed to: Don't have time to work on this :'[
 
 ## PC UI
 ![Android Large - 3](https://user-images.githubusercontent.com/57006688/210266832-9d3dc488-dedd-4212-ba28-b145e3a4e6ea.png)
